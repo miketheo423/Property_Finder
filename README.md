@@ -5,6 +5,8 @@ React Native transpiles your javascript, making it possible to create a native a
 
 You can get started on creating an app with [this](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript) tutorial.
 
+The official documentation for getting started with react native can be found [here](https://facebook.github.io/react-native/docs/getting-started.html). It is definitely a good idea to have both of these tutorials side by side.
+
 ## Two ways to start building:
 1. Quick Start:
 - npm install -g create-react-native-app - Create React Native App is the easiest way to start building a new React Native application. It allows you to start a project without installing or configuring any tools to build native code - no Xcode or Android Studio installation required. 
